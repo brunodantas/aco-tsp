@@ -1,0 +1,6 @@
+	Évora	Faro	Badajoz	Córdoba	Madrid
+Aveiro	353	582	372	641	559
+Évora		231	99	426	502
+Faro			331	326	750
+Badajoz				269	403
+Córdoba					424
